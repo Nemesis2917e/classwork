@@ -7,7 +7,7 @@ int main() {
 
    
     int *p = &k;
-
+ 
 cout<<p<<endl;
 cin.get();
 cin.get();
